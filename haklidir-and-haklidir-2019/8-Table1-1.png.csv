@@ -1,0 +1,11 @@
+Sample label,Sample name,Location,Source type,Reservoir temperature (°C),pH,EC (microS/cm),K (mg/l),Na (mg/l),Boron (mg/l),SiO2 (mg/l),Cl (mg/l)
+56,KD21,Denizli,Well,205b,8.1,4490,108,1149,14,263,85
+57,R3,Denizli,Well,190b,8.1,4640,78,1229,15,219,121
+58,KD23B,Denizli,Well,245b,7.2,5440,179,1415,25,434,118
+59,KD23D,Denizli,Well,238b,7.1,5250,175,1341,25,431,109
+60,KD18A,Denizli,Well,215b,7.0,4920,154,1254,24,351,101
+61,KD2A,Denizli,Well,237b,7.4,4990,159,1239,24,450,103
+62,KD9A,Denizli,Well,225b,7.0,4910,154,1269,26,381,101
+64,R1A,Denizli,Well,231b,7.6,4360,118,1099,20,290,89
+65,R1,Denizli,Well,220b,7.6,4990,153,1318,23,405,102
+66,R3A,Denizli,Well,243b,7.2,5330,182,1417,29,455,113

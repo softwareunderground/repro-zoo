@@ -1,0 +1,21 @@
+Sample name,Location,Source type,pH,EC (microS/ cm),K (mg/ 1),Na (mg/ 1),Boron (mg/ 1),SiO2 (mg/ 1),Cl (mg/ 1)
+Ìmamköy,Aydin,Thermal spring,7.4,1772,84,51,0.0,43,25
+Güre,Balikesir,Thermal spring,9.1,1300,5.5,265,2.7,38,71
+Ayvalik Ilica,Balikesir,Thermal spring,8.7,1000,0.8,2.6,0.5,30,59
+Sindirgi,Balikesir,Thermal spring,7.6,350,0.8,10,0.5,12,10
+Kükürtlü,Bursa,Thermal spring,7.3,816,18,194,1.9,40,8
+Oylat,Bursa,Thermal spring,7.6,1450,4.3,23.5,0.0,42,14
+Hidirlar,Çanakkale,Thermal spring,8.1,700,4.0,110,0.7,51,19
+SP9,Denizli,Thermal spring,6.6,4120,75,564,10,184,98
+Tekkehamam2,Denizli,Thermal,7.7,3800,99,984,20,160,97
+,,spring,,,,,,,
+Kükürtlü,Manisa,Thermal,7.1,1880,8.0,98,7.6,30,31
+,,spring,,,,,,,
+Tekkeköy,Denizli,Thermal,7.6,4500,95,995,12,251,90
+,,spring,,,,,,,
+KD54,Denizli,Well,7.2,5090,140,1225,38,426,180
+KD14,Denizli,Well,8.9,4890,129,1257,20,292,100
+KD22,Denizli,Well,8.3,4750,126,1225,17,258,92
+R6,Denizli,Well,8.4,4590,117,1258,21,249,94
+R5A,Denizli,Well,7.5,4680,131,1232,22,650,95
+K5,Denizli,Thermal,7.5,4500,74,1126,12,191,90
