@@ -17,7 +17,8 @@ The purpose of this is manifold:
 
 Each folder contains a reproduction. In general, this should consist of:
 
-- A `README.md` file with the citation, a link to the complete paper (eg as a pre-print) or at least a DOI, and any notes about what you're trying to do or what is interesting about the paper.
+- One or more Notebooks, or a `README.md` file, with the citation, a link to the complete paper (eg as a pre-print) or at least a DOI, and any notes about what you're trying to do or what is interesting about the paper.
+- More code files or notebooks, whatever is needed or makes sense to you.
 - Any data, or links to data, you need. This might be ripped from a table in the paper, or you might link to the author's repo.
 - Your code.
 - A `LICENSE` file is optional; if you don't include one you will be included in the Apache 2.0 license attached to this repo.
