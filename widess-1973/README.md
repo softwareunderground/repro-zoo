@@ -5,6 +5,8 @@ This paper has been reproduced by [Altay Sansal](https://github.com/tasansal).
 
 ### Reference
 
+M. B. Widess, (1973), "HOW THIN IS A THIN BED?," GEOPHYSICS 38: 1176-1180.
+
 <div style="text-align: left; margin: 0 auto;">
 
 |             |                                   |
