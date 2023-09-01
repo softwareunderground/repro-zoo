@@ -2,6 +2,11 @@
 
 This paper has been reproduced by [Altay Sansal](https://github.com/tasansal).
 
+### How to Run
+
+1. Create `conda` environment from `environment.yaml` file.
+2. Install Jupyter or Jupyer Lab; or register environment kernel with global Jupyter Lab.
+3. Run.
 
 ### Reference
 
